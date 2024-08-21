@@ -1,0 +1,1 @@
+This repository includes the assignment: Dive Deeper in Module 2: Lesson 2 of the Software Engineering Core.
